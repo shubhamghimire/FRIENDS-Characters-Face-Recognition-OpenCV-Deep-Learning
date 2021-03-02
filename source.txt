@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Link to the source.
+
+=======
+Link to the source.
+
+>>>>>>> 380547013f40779088488b9dead228598105c26a
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/

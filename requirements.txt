@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+click==7.1.2
+dlib==19.21.1
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+imutils==0.5.4
+numpy==1.20.1
+opencv-python==4.5.1.48
+Pillow==8.1.1
+=======
+click==7.1.2
+dlib==19.21.1
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+imutils==0.5.4
+numpy==1.20.1
+opencv-python==4.5.1.48
+Pillow==8.1.1
+>>>>>>> 380547013f40779088488b9dead228598105c26a
