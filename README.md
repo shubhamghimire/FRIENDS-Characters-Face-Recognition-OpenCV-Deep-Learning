@@ -19,3 +19,16 @@
 - '--display 1' ==> The prediction on video is not displayed
 - The deafult is '--display 1'.
 
+# Predicted Images
+
+![Image](output_result_image/ex-1-output.jpg)
+
+![Image](output_result_image/ex-14-output.jpg)
+
+![Image](output_result_image/ex-3-output.jpg)
+
+# Predicted Videos
+
+![video](Screenshots/ezgif.com-gif-maker.gif)
+
+![video](Screenshots/ezgif.com-gif-maker (1).gif)
