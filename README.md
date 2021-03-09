@@ -13,3 +13,9 @@
 **To Test the model with Test Videos and Save the Resulted Video**
 
 > python recognize_faces_video.py --encodings encodings.pickle --video videos/test3.mp4 --output output_result_videos/test3.avi --display 1
+
+##Notes:
+- '--display 0' ==> The prediction on video is displayed
+- '--display 1' ==> The prediction on video is not displayed
+- The deafult is '--display 1'.
+
