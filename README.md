@@ -31,4 +31,4 @@
 
 ![video](Screenshots/ezgif.com-gif-maker.gif)
 
-![video](Screenshots/ezgif.com-gif-maker(1).gif)
+![video](Screenshots/'ezgif.com-gif-maker (1).gif')
